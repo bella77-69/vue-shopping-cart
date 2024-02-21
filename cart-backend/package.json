@@ -1,0 +1,20 @@
+{
+  "name": "cart-backend",
+  "version": "1.0.0",
+  "description": "Shopping Cart Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bella77-69"
+  },
+  "author": "bella77-69",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "concurrently": "^8.2.2",
+    "express": "^4.18.2"
+  }
+}
